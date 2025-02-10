@@ -6,7 +6,7 @@ const chefs = [
   { name: "Jorina Begum", role: "Chef", image: "/pic2.png" },
   { name: "M. Mohammad", role: "Chef", image: "/pic3.png" },
   { name: "Munna Kathy", role: "Chef", image: "/pic4.png" },
-  { name: "Tahmina Rumi", role: "Cook", image: "/pic5.png" },
+  { name: "Tahmina Rumi", role: "Cook", image: "/pic5.png" },    
   { name: "Bisnu Devgon", role: "Chef", image: "/pic6.png" },
   { name: "Motin Molladst", role: "Chef", image: "/pic7.png" },
   { name: "William Rumi", role: "Chef", image: "/pic8.png" },
